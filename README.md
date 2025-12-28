@@ -48,8 +48,8 @@ Simply open `index.html` in your browser or use a VS Code extension like **Live 
 
 | Method | Endpoint      | Description            |
 | :----- | :------------ | :--------------------- |
-| GET    | \`/tasks\`      | Fetch all tasks        |
-| POST   | \`/tasks\`      | Create a new task      |
-| PATCH  | \`/tasks/:id\`  | Toggle task completion |
-| DELETE | \`/tasks/:id\`  | Delete and re-index    |
+| GET    | `/tasks`      | Fetch all tasks        |
+| POST   | `/tasks`      | Create a new task      |
+| PATCH  | `/tasks/:id`  | Toggle task completion |
+| DELETE | `/tasks/:id`  | Delete and re-index    |
 
